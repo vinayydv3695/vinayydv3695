@@ -20,6 +20,6 @@ Hey, I'm Vinay 👋 <br>**Dev | Arch Linux User | Anime Fan | Builder of Dotfile
 
 [![](https://visitcount.itsvg.in/api?id=Vinayydv3695&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![snake gif](https://github.com/vinayydv3695/vinayydv3695/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/vinayydv3695/vinayydv3695/blob/output/github-snake-dark.svg)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
