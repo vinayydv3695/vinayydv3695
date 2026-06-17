@@ -79,13 +79,7 @@ Environment: Arch Linux + Neovim + Tiling WMs
 
 <!-- Standard GitHub Stats and Streak -->
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=vinayydv3695&show_icons=true&theme=tokyonight&hide_border=true" />
-<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=vinayydv3695&theme=tokyonight&hide_border=true" />
-
-<br/><br/>
-
-<!-- WakaTime Coding Stats -->
-<!-- NOTE: Replace 'vinayydv3695' with your actual WakaTime username if it is different -->
-<img width="98%" src="https://github-readme-stats.vercel.app/api/wakatime?username=vinayydv3695&theme=tokyonight&hide_border=true&layout=compact" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=vinayydv3695&theme=tokyonight&hide_border=true" />
 
 <br/><br/>
 
