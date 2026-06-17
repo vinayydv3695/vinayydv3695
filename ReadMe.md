@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=7aa2f7,bb9af7&height=250&section=header&text=Vinay&fontSize=80&fontColor=ffffff&animation=twinkling&desc=Backend%20Developer%20%26%20DevOps%20Practitioner&descAlignY=75&descAlign=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=250&section=header&text=Vinay&fontSize=80&fontColor=ffffff&animation=twinkling" />
 
 <br/><br/>
 
@@ -72,7 +72,7 @@ Environment: Arch Linux + Neovim + Tiling WMs
 
 <!-- GitHub Trophies -->
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=vinayydv3695&theme=tokyonight&margin-w=15&margin-h=15&column=7&no-frame=true" alt="vinayydv3695 trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=vinayydv3695&theme=dracula&margin-w=15&margin-h=15&column=7&no-frame=true" alt="vinayydv3695 trophies" />
 </a>
 
 <br/><br/>
