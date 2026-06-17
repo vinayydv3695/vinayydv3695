@@ -25,15 +25,15 @@
 ```
 vinay@archlinux
 ─────────────────────────────────────────────────────
-OS          Arch Linux x86_64
-Role        Backend Developer & DevOps Practitioner
+OS          Arch Linux x86_64 (Omarchy)
+Role        Software Developer & DevOps
 Focus       Scalable Systems · Infrastructure Automation · Linux Customization
-Currently   Learning Rust in the open
+Currently   Learning Rust 
 Setup       Arch Linux + Hyprland + Neovim
 ─────────────────────────────────────────────────────
 ```
 
-I build backend infrastructure and developer tooling, currently exploring **Rust** for systems-level programming. I care about performance, clean architecture, and tools that don't get in the way. When I'm not writing code, I'm ricing my desktop or deep in a manga arc.
+I  just like building stuff in my free time  cause i got no  love life i don't touch grass much often  maybe i need to step out of my room and get a gf . it's so boring living like this. build backend infrastructure  and developer tooling, one of my complex project's is shiori i had put 4 month's into it  currently exploring **Rust** for systems-level programming. I care about performance, clean architecture, and tools that don't get in the way. When I'm not writing code, I had enough of  ricing my desktop and if youu knowww my favourite manga is oyasumi punpun.
 
 <div align="center">
 
@@ -62,18 +62,6 @@ I build backend infrastructure and developer tooling, currently exploring **Rust
 
 > Projects I've built and actively maintain
 
-<div align="center">
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [**Shiori**](https://github.com/vinayydv3695/shiori) | Desktop manga & eBook library manager with torrent integration | `Rust` `Tauri 2` `React 19` |
-| [**SeekAI**](https://github.com/vinayydv3695/seekai) | AI-powered search tool | `Node.js` `AI APIs` |
-| [**KeyArch**](https://github.com/vinayydv3695/keyarch) | Keyboard-driven application launcher | `Rust` `Linux` |
-| [**HollowDots**](https://github.com/vinayydv3695/hollowdots) | Dotfiles & environment config | `Shell` `Arch` `Hyprland` |
-
-</div>
-
-<div align="center">
 
 [![Shiori](https://github-readme-stats.vercel.app/api/pin/?username=vinayydv3695&repo=shiori&theme=github_dark&hide_border=true&bg_color=161b22&title_color=e6edf3&text_color=8b949e&icon_color=8b949e)](https://github.com/vinayydv3695/shiori)
 [![SeekAI](https://github-readme-stats.vercel.app/api/pin/?username=vinayydv3695&repo=seekai&theme=github_dark&hide_border=true&bg_color=161b22&title_color=e6edf3&text_color=8b949e&icon_color=8b949e)](https://github.com/vinayydv3695/seekai)
