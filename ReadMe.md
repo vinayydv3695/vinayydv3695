@@ -1,13 +1,13 @@
 <div align="center">
 
-```
+<pre align="center">
 ██╗   ██╗██╗███╗   ██╗ █████╗ ██╗   ██╗
 ██║   ██║██║████╗  ██║██╔══██╗╚██╗ ██╔╝
 ██║   ██║██║██╔██╗ ██║███████║ ╚████╔╝ 
 ╚██╗ ██╔╝██║██║╚██╗██║██╔══██║  ╚██╔╝  
  ╚████╔╝ ██║██║ ╚████║██║  ██║   ██║   
   ╚═══╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝   ╚═╝  
-```
+</pre>
 
 **`Backend Developer · Systems Tinkerer · Open Source Builder`**
 
@@ -33,7 +33,19 @@ Setup       Arch Linux + Hyprland + Neovim
 ─────────────────────────────────────────────────────
 ```
 
-I  just like building stuff in my free time  cause i got no  love life i don't touch grass much often  maybe i need to step out of my room and get a gf . it's so boring living like this. build backend infrastructure  and developer tooling, one of my complex project's is shiori i had put 4 month's into it  currently exploring **Rust** for systems-level programming. I care about performance, clean architecture, and tools that don't get in the way. When I'm not writing code, I had enough of  ricing my desktop and if youu knowww my favourite manga is oyasumi punpun.
+<div align="center">
+
+<table>
+<tr>
+<td>
+
+I just like building stuff in my free time cause i got no love life i don't touch grass much often maybe i need to step out of my room and get a gf . it's so boring living like this. build **backend infrastructure** and **developer tooling**, one of my complex project's is **[shiori](https://github.com/vinayydv3695/shiori)** i had put **4 month's** into it currently exploring **Rust** for systems-level programming. I care about **performance**, **clean architecture**, and **tools that don't get in the way**. When I'm not writing code, I had enough of ricing my desktop and if youu knowww my favourite manga is **[oyasumi punpun](https://myanimelist.net/manga/4632/Oyasumi_Punpun)** .
+
+</td>
+</tr>
+</table>
+
+</div>
 
 <div align="center">
 
@@ -68,8 +80,6 @@ I  just like building stuff in my free time  cause i got no  love life i don't t
 
 [![KeyArch](https://github-readme-stats.vercel.app/api/pin/?username=vinayydv3695&repo=keyarch&theme=github_dark&hide_border=true&bg_color=161b22&title_color=e6edf3&text_color=8b949e&icon_color=8b949e)](https://github.com/vinayydv3695/keyarch)
 [![HollowDots](https://github-readme-stats.vercel.app/api/pin/?username=vinayydv3695&repo=hollowdots&theme=github_dark&hide_border=true&bg_color=161b22&title_color=e6edf3&text_color=8b949e&icon_color=8b949e)](https://github.com/vinayydv3695/hollowdots)
-
-</div>
 
 ---
 
