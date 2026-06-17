@@ -1,109 +1,114 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=250&section=header&text=Vinay&fontSize=80&fontColor=ffffff&animation=twinkling" />
-
-<br/><br/>
-
-<a href="https://github.com/vinayydv3695">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=bb9af7&center=true&vCenter=true&width=500&lines=Scalable+Systems;Infrastructure+Automation;Arch+Linux+%7C+Rust+%7C+Java" alt="Typing SVG" />
-</a>
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=vinayydv3695&color=7aa2f7&style=flat-square&label=PROFILE+VIEWS)
-
-<br/>
-
-### About Me
-
-```console
-vinay@archlinux
----------------
-OS: Arch Linux x86_64
-Role: Backend Developer & DevOps Practitioner
-Focus: Scalable Systems, Infrastructure Automation, Linux Customization
-Learning: Rust
-Environment: Arch Linux + Neovim + Tiling WMs
+```
+██╗   ██╗██╗███╗   ██╗ █████╗ ██╗   ██╗
+██║   ██║██║████╗  ██║██╔══██╗╚██╗ ██╔╝
+██║   ██║██║██╔██╗ ██║███████║ ╚████╔╝ 
+╚██╗ ██╔╝██║██║╚██╗██║██╔══██║  ╚██╔╝  
+ ╚████╔╝ ██║██║ ╚████║██║  ██║   ██║   
+  ╚═══╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝   ╚═╝  
 ```
 
-<br/>
+**`Backend Developer · Systems Tinkerer · Open Source Builder`**
 
-<p>
-  <a href="https://reddit.com/user/zura-kotaro">
-    <img src="https://img.shields.io/badge/Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white" alt="Reddit"/>
-  </a>
-  <a href="https://youtube.com/@zurasama?si=EGjRRawZL7Id6IH-">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
-  <a href="mailto:vinayydv343@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=e6edf3&center=true&vCenter=true&width=600&lines=Scalable+Systems+%7C+Infrastructure+Automation;Arch+Linux+%7C+Rust+%7C+Java+%7C+Spring;Backend+Dev+%26+DevOps+Practitioner;Building+tools+people+actually+use)](https://github.com/vinayydv3695)
+
+[![Profile Views](https://komarev.com/ghpvc/?username=vinayydv3695&color=8b949e&style=flat-square&label=PROFILE+VIEWS)](https://github.com/vinayydv3695)
+[![GitHub followers](https://img.shields.io/github/followers/vinayydv3695?style=flat-square&color=8b949e&labelColor=161b22&label=Followers)](https://github.com/vinayydv3695?tab=followers)
 
 </div>
 
 ---
 
+## `$ whoami`
+
+```
+vinay@archlinux
+─────────────────────────────────────────────────────
+OS          Arch Linux x86_64
+Role        Backend Developer & DevOps Practitioner
+Focus       Scalable Systems · Infrastructure Automation · Linux Customization
+Currently   Learning Rust in the open
+Setup       Arch Linux + Hyprland + Neovim
+─────────────────────────────────────────────────────
+```
+
+I build backend infrastructure and developer tooling, currently exploring **Rust** for systems-level programming. I care about performance, clean architecture, and tools that don't get in the way. When I'm not writing code, I'm ricing my desktop or deep in a manga arc.
+
 <div align="center">
 
-<details>
-<summary><h2>Tech Stack</h2></summary>
+[![Reddit](https://img.shields.io/badge/Reddit-zura--kotaro-8b949e?style=flat-square&logo=reddit&logoColor=e6edf3&labelColor=161b22)](https://reddit.com/user/zura-kotaro)
+[![YouTube](https://img.shields.io/badge/YouTube-@zurasama-8b949e?style=flat-square&logo=youtube&logoColor=e6edf3&labelColor=161b22)](https://youtube.com/@zurasama?si=EGjRRawZL7Id6IH-)
+[![Email](https://img.shields.io/badge/Email-vinayydv343@gmail.com-8b949e?style=flat-square&logo=gmail&logoColor=e6edf3&labelColor=161b22)](mailto:vinayydv343@gmail.com)
 
-<br/>
+</div>
+
+---
+
+## `$ ls ~/tech-stack`
 
 ### Languages & Frameworks
-<img src="https://skillicons.dev/icons?i=java,spring,rust,js,nodejs,react,express" />
+[![Skills](https://skillicons.dev/icons?i=java,spring,rust,js,nodejs,react,express&theme=dark)](https://github.com/vinayydv3695)
 
-### Databases & Tools
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite,redis,docker,kubernetes,ansible" />
+### Databases & Infrastructure
+[![Skills](https://skillicons.dev/icons?i=postgres,mongodb,sqlite,redis,docker,kubernetes,ansible&theme=dark)](https://github.com/vinayydv3695)
 
-### DevOps & Environment
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,linux,neovim,idea,vscode" />
+### Dev Environment & Tooling
+[![Skills](https://skillicons.dev/icons?i=git,github,githubactions,linux,neovim,idea,vscode&theme=dark)](https://github.com/vinayydv3695)
 
-</details>
+---
+
+## `$ cat ~/projects/featured.txt`
+
+> Projects I've built and actively maintain
+
+<div align="center">
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [**Shiori**](https://github.com/vinayydv3695/shiori) | Desktop manga & eBook library manager with torrent integration | `Rust` `Tauri 2` `React 19` |
+| [**SeekAI**](https://github.com/vinayydv3695/seekai) | AI-powered search tool | `Node.js` `AI APIs` |
+| [**KeyArch**](https://github.com/vinayydv3695/keyarch) | Keyboard-driven application launcher | `Rust` `Linux` |
+| [**HollowDots**](https://github.com/vinayydv3695/hollowdots) | Dotfiles & environment config | `Shell` `Arch` `Hyprland` |
+
+</div>
+
+<div align="center">
+
+[![Shiori](https://github-readme-stats.vercel.app/api/pin/?username=vinayydv3695&repo=shiori&theme=github_dark&hide_border=true&bg_color=161b22&title_color=e6edf3&text_color=8b949e&icon_color=8b949e)](https://github.com/vinayydv3695/shiori)
+[![SeekAI](https://github-readme-stats.vercel.app/api/pin/?username=vinayydv3695&repo=seekai&theme=github_dark&hide_border=true&bg_color=161b22&title_color=e6edf3&text_color=8b949e&icon_color=8b949e)](https://github.com/vinayydv3695/seekai)
+
+[![KeyArch](https://github-readme-stats.vercel.app/api/pin/?username=vinayydv3695&repo=keyarch&theme=github_dark&hide_border=true&bg_color=161b22&title_color=e6edf3&text_color=8b949e&icon_color=8b949e)](https://github.com/vinayydv3695/keyarch)
+[![HollowDots](https://github-readme-stats.vercel.app/api/pin/?username=vinayydv3695&repo=hollowdots&theme=github_dark&hide_border=true&bg_color=161b22&title_color=e6edf3&text_color=8b949e&icon_color=8b949e)](https://github.com/vinayydv3695/hollowdots)
 
 </div>
 
 ---
 
-## GitHub Analytics & Activity
+## `$ git log --stat`
 
 <div align="center">
 
-<!-- GitHub Trophies -->
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=vinayydv3695&theme=dracula&margin-w=15&margin-h=15&column=7&no-frame=true" alt="vinayydv3695 trophies" />
-</a>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinayydv3695&show_icons=true&theme=github_dark&hide_border=true&bg_color=161b22&title_color=e6edf3&text_color=8b949e&icon_color=8b949e&rank_icon=github)](https://github.com/vinayydv3695)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vinayydv3695&theme=dark&hide_border=true&background=161b22&ring=8b949e&fire=e6edf3&currStreakLabel=e6edf3&sideLabels=8b949e&dates=8b949e&stroke=30363d)](https://github.com/vinayydv3695)
 
-<br/><br/>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinayydv3695&layout=compact&theme=github_dark&hide_border=true&bg_color=161b22&title_color=e6edf3&text_color=8b949e&langs_count=8)](https://github.com/vinayydv3695)
 
-<!-- Standard GitHub Stats and Streak -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vinayydv3695&show_icons=true&theme=tokyonight&hide_border=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=vinayydv3695&theme=tokyonight&hide_border=true" />
+</div>
 
-<br/><br/>
+### Contribution Graph
 
-### Isometric Commit Calendar
+<div align="center">
 
-<!-- The 3D calendar will be automatically generated by the GitHub action and placed in your repo -->
-<picture>
-  <img alt="3D GitHub Contribution Calendar" src="https://raw.githubusercontent.com/vinayydv3695/vinayydv3695/main/profile-3d-contrib/profile-night-view.svg">
-</picture>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vinayydv3695&bg_color=0d1117&color=8b949e&line=30363d&point=8b949e&area=true&area_color=161b22&hide_border=true&custom_title=Contribution+Graph)](https://github.com/vinayydv3695)
 
-<br/><br/>
+</div>
 
-### Contribution Graph Snake
+### Snake
 
-<!-- The snake will automatically be generated by the GitHub action and placed on the output branch -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vinayydv3695/vinayydv3695/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vinayydv3695/vinayydv3695/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vinayydv3695/vinayydv3695/output/github-contribution-grid-snake.svg">
-</picture>
+<div align="center">
 
-<br/><br/>
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=vinayydv3695&bg_color=1a1b26&color=7aa2f7&line=bb9af7&point=c0caf5&area=true&hide_border=true&custom_title=Contribution%20Graph" />
+![Contribution Snake](https://raw.githubusercontent.com/vinayydv3695/vinayydv3695/output/github-contribution-grid-snake.svg)
 
 </div>
 
@@ -111,42 +116,12 @@ Environment: Arch Linux + Neovim + Tiling WMs
 
 <div align="center">
 
-<details open>
-<summary><h2>Featured Projects</h2></summary>
+[![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/vinayydv3695)
 
 <br/>
 
-<p align="center">
-  <a href="https://github.com/vinayydv3695/shiori">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vinayydv3695&repo=shiori&theme=tokyonight&hide_border=true" width="48%" />
-  </a>
-  <a href="https://github.com/vinayydv3695/seekai">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vinayydv3695&repo=seekai&theme=tokyonight&hide_border=true" width="48%" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/vinayydv3695/keyarch">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vinayydv3695&repo=keyarch&theme=tokyonight&hide_border=true" width="48%" />
-  </a>
-  <a href="https://github.com/vinayydv3695/hollowdots">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vinayydv3695&repo=hollowdots&theme=tokyonight&hide_border=true" width="48%" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/vinayydv3695/.dotfiles">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vinayydv3695&repo=.dotfiles&theme=tokyonight&hide_border=true" width="48%" />
-  </a>
-</p>
-
-</details>
-
-</div>
-
----
-
-<div align="center">
-
-<!-- Quote of the Day -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote of the day" />
+```
+"Build things that matter. Break things to understand them. Ship anyway."
+```
 
 </div>
