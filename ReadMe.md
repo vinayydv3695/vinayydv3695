@@ -22,18 +22,52 @@
 
 ## `$ whoami`
 
-```
-vinay@archlinux
-─────────────────────────────────────────────────────
-OS          Arch Linux x86_64 (Omarchy)
-Role        Software Developer & DevOps
-Focus       Scalable Systems · Infrastructure Automation · Linux Customization
-Currently   Learning Rust 
-Setup       Arch Linux + Hyprland + Neovim
-─────────────────────────────────────────────────────
-```
-
 <div align="center">
+
+<table>
+<tr>
+<td>
+
+<pre>
+                  -`
+                 .o+`
+                `ooo/
+               `+oooo:
+              `+oooooo:
+              -+oooooo+:
+            `/:-:++oooo+:
+           `/++++/+++++++:
+          `/++++++++++++++:
+         `/+++ooooooooooooo/`
+        ./ooosssso++osssssso+`
+       .oossssso-````/ossssss+`
+      -osssssso.      :ssssssso.
+     :osssssss/        osssso+++.
+    /ossssssss/        +ssssooo/-
+  `/ossssso+/:-        -:/+osssso+-
+ `+sso+:-`                 `.-/+oso:
+`++:.                           `-/+/
+.`                                 `/
+</pre>
+
+</td>
+<td>
+
+<pre>
+vinay@archlinux
+────────────────────────────────────────
+> OS          Arch Linux x86_64
+> Role        Software Developer & DevOps
+> Focus       Scalable Systems, Infra
+> Currently   Learning Rust 
+> Setup       Arch + Hyprland + Neovim
+</pre>
+
+</td>
+</tr>
+</table>
+
+<br>
 
 <table>
 <tr>
