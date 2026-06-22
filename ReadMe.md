@@ -36,23 +36,23 @@
 <pre>
 👁  What good to foresee a demise unavoidable
 
- OS         Arch Linux x86_64
-󰌢 Kernel     Linux 7.0.9-arch2-1
-󰏖 Packages   1023 (pacman)
-󰍹 Display    1920x1080 @ 1.25x in 15"
- WM         Hyprland 0.55.2 (Wayland)
- Terminal   kitty 0.46.2
-󰔟 OS Age     8 days
- Uptime     22 hours, 4 mins
+ OS         Arch Linux x86_64 (Btw)
+󰌢 Kernel     Backend Developer & DevOps
+󰏖 Packages   Java, Rust, Node.js, Docker, Ansible
+󰍹 Focus      Clean Architecture & Scalable Systems
+ WM         Hyprland (Tiling enthusiast)
+ Editor     Neovim (Heavily riced)
+󰔟 OS Age     20 years
+ Uptime     16 hours / day
  GitHub     Vinayydv3695
- Battery    40% [AC Connected]
+ Battery    Fueled by Caffeine
 
  User       zura@Edo
 
- CPU        12th Gen Intel Core i7-1255U
-󰢮 GPU        UHD Graphics
-󰢮 Driver     i915
-󰑭 Memory     6.19 GiB / 15.32 GiB
+ CPU        Building backend infra & developer tooling
+󰢮 GPU        Reading Oyasumi Punpun
+󰢮 Current    Exploring Rust for systems-level programming
+󰑭 Memory     6.19 GiB / 15.32 GiB (Relies on documentation)
 </pre>
 
 </td>
