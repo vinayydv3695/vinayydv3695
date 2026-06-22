@@ -26,46 +26,40 @@
 
 <table>
 <tr>
-<td>
+<td align="center">
 
-<pre>
-                  -`
-                 .o+`
-                `ooo/
-               `+oooo:
-              `+oooooo:
-              -+oooooo+:
-            `/:-:++oooo+:
-           `/++++/+++++++:
-          `/++++++++++++++:
-         `/+++ooooooooooooo/`
-        ./ooosssso++osssssso+`
-       .oossssso-````/ossssss+`
-      -osssssso.      :ssssssso.
-     :osssssss/        osssso+++.
-    /ossssssss/        +ssssooo/-
-  `/ossssso+/:-        -:/+osssso+-
- `+sso+:-`                 `.-/+oso:
-`++:.                           `-/+/
-.`                                 `/
-</pre>
+<img src="assets/hor.png" width="280" alt="Hornet" />
 
 </td>
 <td>
 
 <pre>
-vinay@archlinux
-────────────────────────────────────────
-> OS          Arch Linux x86_64
-> Role        Software Developer & DevOps
-> Focus       Scalable Systems, Infra
-> Currently   Learning Rust 
-> Setup       Arch + Hyprland + Neovim
+👁  What good to foresee a demise unavoidable
+
+ OS         Arch Linux x86_64
+󰌢 Kernel     Linux 7.0.9-arch2-1
+󰏖 Packages   1023 (pacman)
+󰍹 Display    1920x1080 @ 1.25x in 15"
+ WM         Hyprland 0.55.2 (Wayland)
+ Terminal   kitty 0.46.2
+󰔟 OS Age     8 days
+ Uptime     22 hours, 4 mins
+ GitHub     Vinayydv3695
+ Battery    40% [AC Connected]
+
+ User       zura@Edo
+
+ CPU        12th Gen Intel Core i7-1255U
+󰢮 GPU        UHD Graphics
+󰢮 Driver     i915
+󰑭 Memory     6.19 GiB / 15.32 GiB
 </pre>
 
 </td>
 </tr>
 </table>
+
+
 
 <br>
 
@@ -73,7 +67,7 @@ vinay@archlinux
 <tr>
 <td>
 
-I just like building stuff in my free time cause i got no love life i don't touch grass much often maybe i need to step out of my room and get a gf . it's so boring living like this. build **backend infrastructure** and **developer tooling**, one of my complex project's is **[shiori](https://github.com/vinayydv3695/shiori)** i had put **4 month's** into it currently exploring **Rust** for systems-level programming. I care about **performance**, **clean architecture**, and **tools that don't get in the way**. When I'm not writing code, I had enough of ricing my desktop and if youu knowww my favourite manga is **[oyasumi punpun](https://myanimelist.net/manga/4632/Oyasumi_Punpun)** .
+Building **backend infrastructure** and **developer tooling**. Currently exploring **Rust** for systems-level programming and working on **[shiori](https://github.com/vinayydv3695/shiori)**. I care about **performance**, **clean architecture**, and building tools that don't get in the way. When I'm not coding, I'm usually ricing my desktop.
 
 </td>
 </tr>
@@ -128,13 +122,7 @@ I just like building stuff in my free time cause i got no love life i don't touc
 
 </div>
 
-### Contribution Graph
 
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vinayydv3695&bg_color=0d1117&color=8b949e&line=30363d&point=8b949e&area=true&area_color=161b22&hide_border=true&custom_title=Contribution+Graph)](https://github.com/vinayydv3695)
-
-</div>
 
 ### Snake
 
