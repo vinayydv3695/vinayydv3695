@@ -85,16 +85,32 @@ I just like building stuff in my free time cause i got no love life i don't touc
 
 ---
 
-## `$ ls ~/tech-stack`
+<br>
 
-### Languages & Frameworks
-[![Skills](https://skillicons.dev/icons?i=java,spring,rust,js,nodejs,react,express&theme=dark)](https://github.com/vinayydv3695)
+<code>vinay@omarchy:~$ ls -la ~/tech-stack</code>
 
-### Databases & Infrastructure
-[![Skills](https://skillicons.dev/icons?i=postgres,mongodb,sqlite,redis,docker,kubernetes,ansible&theme=dark)](https://github.com/vinayydv3695)
+<details>
+<summary><code>▶ ./languages-and-frameworks.sh</code></summary>
+<br>
+<img src="https://skillicons.dev/icons?i=java,spring,rust,js,nodejs,react,express&theme=dark" />
+<br><br>
+</details>
 
-### Dev Environment & Tooling
-[![Skills](https://skillicons.dev/icons?i=git,github,githubactions,linux,neovim,idea,vscode&theme=dark)](https://github.com/vinayydv3695)
+<details>
+<summary><code>▶ ./databases-and-infrastructure.sh</code></summary>
+<br>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite,redis,docker,kubernetes,ansible&theme=dark" />
+<br><br>
+</details>
+
+<details>
+<summary><code>▶ ./dev-environment-and-tooling.sh</code></summary>
+<br>
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,linux,neovim,idea,vscode&theme=dark" />
+<br><br>
+</details>
+
+<br>
 
 ---
 
@@ -124,13 +140,7 @@ I just like building stuff in my free time cause i got no love life i don't touc
 
 
 
-### Snake
 
-<div align="center">
-
-![Contribution Snake](https://raw.githubusercontent.com/vinayydv3695/vinayydv3695/output/github-contribution-grid-snake.svg)
-
-</div>
 
 ---
 
