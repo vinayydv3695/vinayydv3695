@@ -67,7 +67,7 @@
 <tr>
 <td>
 
-Building **backend infrastructure** and **developer tooling**. Currently exploring **Rust** for systems-level programming and working on **[shiori](https://github.com/vinayydv3695/shiori)**. I care about **performance**, **clean architecture**, and building tools that don't get in the way. When I'm not coding, I'm usually ricing my desktop.
+I just like building stuff in my free time cause i got no love life i don't touch grass much often maybe i need to step out of my room and get a gf . it's so boring living like this. build **backend infrastructure** and **developer tooling**, one of my complex project's is **[shiori](https://github.com/vinayydv3695/shiori)** i had put **4 month's** into it currently exploring **Rust** for systems-level programming. I care about **performance**, **clean architecture**, and **tools that don't get in the way**. When I'm not writing code, I had enough of ricing my desktop and if youu knowww my favourite manga is **[oyasumi punpun](https://myanimelist.net/manga/4632/Oyasumi_Punpun)** .
 
 </td>
 </tr>
