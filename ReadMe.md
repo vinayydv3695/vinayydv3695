@@ -38,8 +38,8 @@
 
  OS         Arch Linux x86_64 (Btw)
 󰌢 Kernel     Backend Developer & DevOps
-󰏖 Packages   Java, Rust, Node.js, Docker, Ansible
-󰍹 Focus      Clean Architecture & Scalable Systems
+󰏖 Packages   Tauri, Rust, Node.js, Docker, Ansible
+󰍹 Focus      Software Development, and Ricing
  WM         Hyprland (Tiling enthusiast)
  Editor     Neovim (Heavily riced)
 󰔟 OS Age     20 years
@@ -92,21 +92,38 @@ I just like building stuff in my free time cause i got no love life i don't touc
 <details>
 <summary><code>▶ ./languages-and-frameworks.sh</code></summary>
 <br>
-<img src="https://skillicons.dev/icons?i=java,spring,rust,js,nodejs,react,express&theme=dark" />
+<img src="https://img.shields.io/badge/Tauri-24C8DB?style=for-the-badge&logo=tauri&logoColor=white" />
+<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <br><br>
 </details>
 
 <details>
 <summary><code>▶ ./databases-and-infrastructure.sh</code></summary>
 <br>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite,redis,docker,kubernetes,ansible&theme=dark" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white" />
 <br><br>
 </details>
 
 <details>
 <summary><code>▶ ./dev-environment-and-tooling.sh</code></summary>
 <br>
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,linux,neovim,idea,vscode&theme=dark" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
+<img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 <br><br>
 </details>
 
