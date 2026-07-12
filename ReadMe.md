@@ -28,32 +28,62 @@
 <tr>
 <td align="center">
 
-<img src="assets/hor.png" width="280" alt="Hornet" />
+```text
+#::::::::--=++++#%%%%%%%%%%###*+=-:::..............:
+#::....:==-=*##@@%@%@@@@@@%%%%##*==-::..::::::::::::
+#......:=++#%@@@@@@@@@@@@%####%%%#*#*=-:::..........
+#::::---+#%@@@@@@@@@@@@@@@%##*++****##+...         .
+#---==++*%%@@@@@@%@@@@@@@@@@%##+++*###*-.          .
+%===+++*#@@@@@@@@@@@%@@@@@@@%#****#%%#*=..         .
+%===+=*#%@@@@@@@@@@@@@@@@@@@%#***#%#%%#*..         .
+#--=-+**#%@@@@@%%@@@##*#@@@@%#*++*%#*#%*.          .
+%=-=*+*##%%@@@@@@@@#+++=+#%%##***+**==#-           .
+%#-+*-*#*#%%%%@@@@@@###+==+*#%%%%##*-:=            .
+%===-:-++##%##******##%%**######*+=+==-.           .
+#-:----=+*+%%==+**@%###%#+##*##@%++=--*=           .
+#-:--:::::-=*--===*++++#=:+#+++++=-:.:=.           .
+#........::==-:::--::-+=:::++--:::...-:.           .
+*  ........:-:------=+=:::::==-:::::-..            .
+*   .......:-:::-----=---------:::::::             .
+*...........:-:::::::-=+++**=::::::--.             .
+#............-=----+*++**++*++++--===              .
+#.............===-=*++++++++****++*#*:             .
+#............ :*+=----==+++=====+#%%@@*=-.         .
+*............=%@%+=-----=++===+*###@%@@@%*##+:------
+*........  :*@@@@++*+*+++*++*#%%#==@@@@@@%@@%%%%%@@%
+*......  -+%@@@@@*-=*%%@@@@@@%#*+-=@@@@@@%@@@%%%@@%%
+*..  ..:+@@@@@@@@@*=-=++**********%@@@@@@@@@@%%%@@@@
+*. -*#%@@@@@@@@@@@@%*++++**##*#%@@@@@@@@@@@@@@@@@@@@
+*.-%@@@@@@@@@@@@@@@@@@@%%@@@@@@@@@@@@@@@@@@@@@@@@@@@
+%#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+```
 
 </td>
 <td>
 
-<pre>
+```text
 👁  What good to foresee a demise unavoidable
 
- OS         Arch Linux x86_64 (Btw)
+
+ OS         Arch Linux x86_64 (Btw)
 󰌢 Kernel     Backend Developer & DevOps
 󰏖 Packages   Tauri, Rust, Node.js, Docker, Ansible
 󰍹 Focus      Software Development, and Ricing
- WM         Hyprland (Tiling enthusiast)
- Editor     Neovim (Heavily riced)
+ WM         Hyprland (Tiling enthusiast)
+ Editor     Neovim (Heavily riced)
 󰔟 OS Age     20 years
- Uptime     16 hours / day
- GitHub     Vinayydv3695
- Battery    Fueled by Caffeine
+ Uptime     16 hours / day
+ GitHub     Vinayydv3695
+ Battery    Fueled by Caffeine
 
- User       zura@Edo
+ User       zura@Edo
 
- CPU        Building backend infra & developer tooling
+ CPU        Building backend infra & developer tooling
 󰢮 GPU        Reading Oyasumi Punpun
 󰢮 Current    Exploring Rust for systems-level programming
 󰑭 Memory     6.19 GiB / 15.32 GiB (Relies on documentation)
-</pre>
+```
 
 </td>
 </tr>
@@ -136,11 +166,11 @@ I just like building stuff in my free time cause i got no love life i don't touc
 > Projects I've built and actively maintain
 
 
-[![Shiori](https://github-readme-stats.vercel.app/api/pin/?username=vinayydv3695&repo=shiori&theme=github_dark&hide_border=true&bg_color=161b22&title_color=e6edf3&text_color=8b949e&icon_color=8b949e)](https://github.com/vinayydv3695/shiori)
-[![SeekAI](https://github-readme-stats.vercel.app/api/pin/?username=vinayydv3695&repo=seekai&theme=github_dark&hide_border=true&bg_color=161b22&title_color=e6edf3&text_color=8b949e&icon_color=8b949e)](https://github.com/vinayydv3695/seekai)
+[![Shiori](https://github-stats-extended.vercel.app/api/pin/?username=vinayydv3695&repo=shiori&theme=github_dark&hide_border=true&bg_color=161b22&title_color=e6edf3&text_color=8b949e&icon_color=8b949e)](https://github.com/vinayydv3695/shiori)
+[![SeekAI](https://github-stats-extended.vercel.app/api/pin/?username=vinayydv3695&repo=seekai&theme=github_dark&hide_border=true&bg_color=161b22&title_color=e6edf3&text_color=8b949e&icon_color=8b949e)](https://github.com/vinayydv3695/seekai)
 
-[![KeyArch](https://github-readme-stats.vercel.app/api/pin/?username=vinayydv3695&repo=keyarch&theme=github_dark&hide_border=true&bg_color=161b22&title_color=e6edf3&text_color=8b949e&icon_color=8b949e)](https://github.com/vinayydv3695/keyarch)
-[![HollowDots](https://github-readme-stats.vercel.app/api/pin/?username=vinayydv3695&repo=hollowdots&theme=github_dark&hide_border=true&bg_color=161b22&title_color=e6edf3&text_color=8b949e&icon_color=8b949e)](https://github.com/vinayydv3695/hollowdots)
+[![KeyArch](https://github-stats-extended.vercel.app/api/pin/?username=vinayydv3695&repo=keyarch&theme=github_dark&hide_border=true&bg_color=161b22&title_color=e6edf3&text_color=8b949e&icon_color=8b949e)](https://github.com/vinayydv3695/keyarch)
+[![HollowDots](https://github-stats-extended.vercel.app/api/pin/?username=vinayydv3695&repo=hollowdots&theme=github_dark&hide_border=true&bg_color=161b22&title_color=e6edf3&text_color=8b949e&icon_color=8b949e)](https://github.com/vinayydv3695/hollowdots)
 
 ---
 
@@ -148,10 +178,10 @@ I just like building stuff in my free time cause i got no love life i don't touc
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinayydv3695&show_icons=true&theme=github_dark&hide_border=true&bg_color=161b22&title_color=e6edf3&text_color=8b949e&icon_color=8b949e&rank_icon=github)](https://github.com/vinayydv3695)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=vinayydv3695&show_icons=true&theme=github_dark&hide_border=true&bg_color=161b22&title_color=e6edf3&text_color=8b949e&icon_color=8b949e&rank_icon=github)](https://github.com/vinayydv3695)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vinayydv3695&theme=dark&hide_border=true&background=161b22&ring=8b949e&fire=e6edf3&currStreakLabel=e6edf3&sideLabels=8b949e&dates=8b949e&stroke=30363d)](https://github.com/vinayydv3695)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinayydv3695&layout=compact&theme=github_dark&hide_border=true&bg_color=161b22&title_color=e6edf3&text_color=8b949e&langs_count=8)](https://github.com/vinayydv3695)
+[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=vinayydv3695&layout=compact&theme=github_dark&hide_border=true&bg_color=161b22&title_color=e6edf3&text_color=8b949e&langs_count=8)](https://github.com/vinayydv3695)
 
 </div>
 
